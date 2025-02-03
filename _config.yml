@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: Xander Carlson
+email: xandercarlson4@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Learn about Xander Carlson, his skills and experience, and how he can make an impact in your workspace."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Technology - Engineering - Design - Education"
+meta_author: Carlson Xander
 
 # Google webmaster tools
 google_verify:
@@ -25,16 +25,16 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: fff9f3 #AB8742
+  primary-rgb: "255,249,243" #"171,134,66"
+  secondary: 5d5340 #414B3B
+  secondary-dark: 2a2e36 #000000
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
+  copyright: Xander Carlson
+  location: Wake Forest,NC
+  social: @xander_carlson
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -52,8 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line:Wake Forest, NC 
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
