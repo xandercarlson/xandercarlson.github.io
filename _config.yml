@@ -25,9 +25,9 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fff9f3 #AB8742
-  primary-rgb: "255,249,243" #"171,134,66"
-  secondary: 5d5340 #414B3B
+  primary: ab8742 #AB8742
+  primary-rgb: "171,134,66" #"171,134,66"
+  secondary: 414B3B #414B3B
   secondary-dark: 2a2e36 #000000
 
 # Footer settings
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line:Wake Forest, NC 
+  - line: Wake Forest, NC 
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
